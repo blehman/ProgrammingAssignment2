@@ -1,4 +1,4 @@
-## The combination of these two functions create a spcial matrix that can cache it's inverse. 
+## The combination of these two functions create a spcial matrix that can cache its inverse. 
 
 ## Write a short comment describing this function
 # the makeCacheMatrix function creates a special matrix with an attribute of set, get, and setInverse/getInverse
